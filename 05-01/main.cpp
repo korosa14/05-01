@@ -18,7 +18,7 @@ int main()
 		"Hamamatsucho","Shimbasi","Yurakucho"
 	};
 
-	printf("º˜a6”N‚Ì˜Hü}\n");
+	printf("º˜a˜Z”N‚Ì˜Hü}\n");
 
 	for (list<const char*>::iterator it_f = list_.begin(); it_f != list_.end(); ++it_f)
 	{
@@ -27,7 +27,7 @@ int main()
 
 	printf("\n");
 
-	printf("º˜a47”N‚Ì˜Hü}\n");
+	printf("º˜alµ”N‚Ì˜Hü}\n");
 
 	for (list<const char*>::iterator it_f = list_.begin(); it_f != list_.end(); ++it_f)
 	{
@@ -46,7 +46,7 @@ int main()
 
 	printf("\n");
 
-	printf("—ß˜a5”N‚Ì˜Hü}\n");
+	printf("—ß˜aŒÜ”N‚Ì˜Hü}\n");
 
 	for (list<const char*>::iterator it_f = list_.begin(); it_f != list_.end(); ++it_f)
 	{
